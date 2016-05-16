@@ -1,14 +1,14 @@
 
 US Population Predictor
 ========================
-author: Kaushal Shrestha
-date: 12th May 2016
+author: Anuj Khadgi
+date: 16th May 2016
 autosize: true
 
 Application Description:
 =======================
 
-Github: <https://github.com/kus73/Developing_data_products>
+Github: <https://github.com/akhadgi/Developing_data_products>
 
 <small>
 The application uses R code to calculate the future US population between the years 2014 and 2040 using historical population data from the past 34 years (i.e. 1980 to 2013) and linear regression based on those past data points. 
@@ -57,5 +57,5 @@ Conclusion:
 <small>
 This tiny shiny app is just a part of peer assignment on a Data Science Coursera Course - Developing Data Products. The objective of this little application is to predict the population of United States of America based on the given data set.
 
-My app is available at: <https://github.com/kus73/Developing_data_products>
+My app is available at: <https://github.com/akhadgi/Developing_data_products>
 </small>
